@@ -17,6 +17,11 @@
 ## 🛠️ Tech Stack
 - **AI & Conversation Engine:** Botpress Cloud AI Agent (LLM + Vision)
 - **Presentation & UI Design:** Canva / PowerPoint
-
-## 👥 Team
+-
+- ## 👥 Team
 - **Team Leader:** Suhail Al Mansoori
+- **Team Member:** Ahmed Al Mansoori
+- **Team Member:** Saif Al Mansoori
+
+
+  
