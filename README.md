@@ -1,4 +1,4 @@
-# 🛡️ Aman Bot (أمان بوت)
+# 🛡️ Aman Bot AI (أمان بوت)
 **AI-Powered Cyber Scam Detection Assistant**  
 *Built for SCAMSHIELD AI Hackathon — Abu Dhabi Police x 42 Abu Dhabi*
 
